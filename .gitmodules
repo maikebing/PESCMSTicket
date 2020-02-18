@@ -1,0 +1,4 @@
+[submodule "ticket"]
+	path = ticket
+	url = https://github.com/lazyphp/PESCMS-Ticket.git
+	branch = master
